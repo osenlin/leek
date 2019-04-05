@@ -5,6 +5,10 @@ master分支为发布分支，develop分支为开发分支；每次开发的时�
 * 从develop分支folk出一个新的分支，比如feature_xxx
 * 开发调试完成之后，提交pr从feature_xxx到develop
 
+# 项目初衷
+
+在使用XXX证券软件的时候，观察自个收益往往存在数据不准确的情况，本项目就是自己重头演算个股收益
+
 # 系统架构
 
 整个项目是基于PYSPARK2和Spark on HIVE技术搭建而成
